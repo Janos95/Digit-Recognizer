@@ -178,7 +178,7 @@ fill : List Coords -> List Float
 fill xs = 
   let 
     arr = Array.initialize 784 (always 0)
-    ys = List.map (\(Coords x y z) -> ((x-1)*28+y,z)) xs
+    ys = List.map (\(Coords x y z) -> ((y-1)*28+x,z)) xs
     insert' zs brr = 
       case zs of
         ((a,b)::rest) -> Array.set a b (insert' rest brr)
