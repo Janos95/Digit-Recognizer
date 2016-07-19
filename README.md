@@ -5,3 +5,5 @@
 3. Eine Button um zu erkennen welche Ziffer man mittels der Sketch-App gezeichnet/gemalt hat, indem es überprüft wie dunkel das Bild ist.
 4. Wenn noch Zeit bleibt ein besserer Algorithmus zum Erkennen einer Ziffer, z.B. ein künstliches Neuronales Netz(in Haskell geschrieben), das mit den folgenden Trainingsdaten lokal trainiert wird : http://yann.lecun.com/exdb/mnist/
 * https://github.com/Janos95/Digit-Recognizer/blob/gh-pages/index.html
+
+Demo: http://htmlpreview.github.io/?https://github.com/Janos95/Digit-Recognizer/blob/gh-pages/index.html
