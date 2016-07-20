@@ -3,6 +3,7 @@ module Main exposing (..)
 
 
 import Html 
+import Html.Attributes exposing (..)
 import Html.Events exposing (on,onClick)
 import Html.App as App
 import Svg exposing (..)
@@ -151,7 +152,7 @@ view model =
     points = 
       model.canvas
   in 
-    Html.div []
+    Html.div [draggable "False"]
              [ Html.div [ onMouseDown ]
                [ plotSquares <| points ]
              , Html.button [onClick Reset] [ Html.text "Reset"]
