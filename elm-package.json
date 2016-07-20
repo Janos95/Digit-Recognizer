@@ -4,7 +4,7 @@
     "repository": "https://github.com/Janos95/Digit-Recognizer",
     "license": "BSD3",
     "source-directories": [
-        "scr"
+        "src"
     ],
     "exposed-modules": [],
     "dependencies": {
