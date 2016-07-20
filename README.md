@@ -7,6 +7,4 @@
 Funktioniert bisher leider nur unter Firefox und Safari.
 
 
-* https://github.com/Janos95/Digit-Recognizer/blob/gh-pages/index.html
-
 Demo: https://Janos95.github.io/Digit-Recognizer/index.html
