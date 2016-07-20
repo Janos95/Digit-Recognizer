@@ -4,7 +4,4 @@
 2. Ein Reset Button der das Bild löscht.
 3. Neuronales Netz zur Ziffererkennung. Bei den Testdateien von: http://yann.lecun.com/exdb/mnist/ erreicht das NN eine Genauigkeit von ca. 85%.
 
-
-* https://github.com/Janos95/Digit-Recognizer/blob/gh-pages/index.html
-
-Demo: http://htmlpreview.github.io/?https://github.com/Janos95/Digit-Recognizer/blob/gh-pages/index.html
+Demo: https://Janos95.github.io/Digit-Recognizer/index.html
